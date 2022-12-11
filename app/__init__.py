@@ -1,4 +1,4 @@
-from .core.conf import settings
+from .conf import settings
 from .models import BaseModel
 
 __all__ = [

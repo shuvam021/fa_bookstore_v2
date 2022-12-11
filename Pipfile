@@ -9,6 +9,8 @@ sqlalchemy = "*"
 alembic = "*"
 pydantic = {extras = ["dotenv", "email"], version = "*"}
 psycopg2 = "*"
+passlib = "*"
+pyjwt = "*"
 
 [dev-packages]
 
