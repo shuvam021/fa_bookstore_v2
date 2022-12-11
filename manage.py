@@ -4,7 +4,7 @@ import subprocess
 import click
 import uvicorn
 
-from app.core import settings
+from app import settings
 
 
 def run_command(cmd):
